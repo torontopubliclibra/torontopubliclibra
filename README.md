@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dana Rosamund Teagle (she/they) a.k.a. <a href="http://instagram.com/torontopubliclibra">@torontopubliclibra</a> or <a href="http://twitter.com/torontolibra">@torontolibra</a>
+- 👋 Hi, I’m Dana Rosamund Teagle (she/they) a.k.a. <a href="http://instagram.com/torontopubliclibra" target="_blank">@torontopubliclibra</a> or <a href="http://twitter.com/torontolibra" target="_blank">@torontolibra</a>
 - 👩‍💻 I’m studying web development at Juno College
 - 👩‍💼 I run a <a href="http://danateagle.com">virtual assistance</a> business
 - 🐈 I have two cats named Snufkin and Winnipeg
