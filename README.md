@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dana Rosamund Teagle (they/she) a.k.a. <a href="http://twitter.com/teagleistyping" target="_blank">@teagleistyping</a>
 - 👩‍💻 I’m studying web development at <a href="http://junocollege.com" target="_blank">Juno College</a>
-- 🐈 I have two cats named Snufkin and Winnipeg
 - 📫 Reach me at <a href="mailto:dana.r.teagle@gmail.com">dana.r.teagle@gmail.com</a>
 
 <!---
