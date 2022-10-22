@@ -16,11 +16,13 @@
 - 👩‍💻 I'm a front-end web developer and creative problem-solver based in Toronto, Ontario
 - 🔪 I previously had careers in restaurant management and virtual assistance
 - 🎓 I got my certifications in web development at <a href="https://junocollege.com" target="_blank">Juno College</a> in 2022
+- 💻 I'm passionate about building accessible and dynamic web apps written with clean code and using functional programming principles
+- 🎧 When I'm away from my keyboard, I'm usually reading comic books, going on walks around Toronto, or making playlists on Spotify
 - 📫 Reach me at <a href="mailto:dana.r.teagle@gmail.com">dana.r.teagle@gmail.com</a>
 
 ---
 
-### Skills
+## Skills
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
