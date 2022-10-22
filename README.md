@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=torontopubliclibra&style=for-the-badge&color=678c94" alt=""/>
 </div>
 
----
-
 ## About Me
 
 - 👋 Hi, I’m Dana Rosamund Teagle (they/she)
@@ -19,8 +17,6 @@
 - 💻 I'm passionate about building accessible and dynamic web apps written with clean code and using functional programming principles
 - 🎧 When I'm away from my keyboard, I'm usually reading comic books, going on walks around Toronto, or making playlists on Spotify
 - 📫 Reach me at <a href="mailto:dana.r.teagle@gmail.com">dana.r.teagle@gmail.com</a>
-
----
 
 ## Skills
 
