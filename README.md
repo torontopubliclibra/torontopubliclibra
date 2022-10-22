@@ -1,8 +1,8 @@
 <div id="badges">
-  <a href="https://linkedin.com/in/danateagle" target="_blank">
+  <a href="https://linkedin.com/in/danateagle">
     <img src="https://img.shields.io/badge/LinkedIn-efc4e2?style=for-the-badge&logo=linkedin&logoColor=282b2c" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/teagleistyping" target="_blank">
+  <a href="https://twitter.com/teagleistyping">
     <img src="https://img.shields.io/badge/Twitter-1e4345?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=torontopubliclibra&style=for-the-badge&color=678c94" alt=""/>
@@ -13,9 +13,9 @@
 - 👋 Hi, I’m Dana Rosamund Teagle (they/she)
 - 👩‍💻 I'm a front-end web developer and creative problem-solver based in Toronto, Ontario
 - 🔪 I previously had careers in restaurant management and virtual assistance
-- 🎓 I got my certifications in web development at <a href="https://junocollege.com" target="_blank">Juno College</a> in 2022
+- 🎓 I got my certifications in web development at <a href="https://junocollege.com">Juno College</a> in 2022
 - 🌐 I'm passionate about building accessible and dynamic web apps written with clean code and using functional programming principles
-- 🎧 When I'm away from my keyboard, I'm usually reading comic books, going on walks around Toronto, or making playlists on <a href="https://open.spotify.com/user/zl14jd6qwpyhzcjtcwn5dkp78?si=WqZ87bKWQNe-VpS_xMRNRw" target="_blank">Spotify</a>
+- 🎧 When I'm away from my keyboard, I'm usually reading comic books, going on walks around Toronto, or making playlists on <a href="https://open.spotify.com/user/zl14jd6qwpyhzcjtcwn5dkp78?si=WqZ87bKWQNe-VpS_xMRNRw">Spotify</a>
 - 💻 Check out my porfolio at <a href="https://danateagle.com">danateagle.com</a>
 - 📫 Reach me at <a href="mailto:dana.r.teagle@gmail.com">dana.r.teagle@gmail.com</a>
 
