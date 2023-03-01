@@ -2,15 +2,12 @@
   <a href="https://linkedin.com/in/danateagle">
     <img src="https://img.shields.io/badge/LinkedIn-efc4e2?style=for-the-badge&logo=linkedin&logoColor=282b2c" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/teagleistyping">
-    <img src="https://img.shields.io/badge/Twitter-1e4345?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=torontopubliclibra&style=for-the-badge&color=678c94" alt=""/>
 </div>
 
 ## About Me
 
-- 👋 Hi, I’m Dana Rosamund Teagle (they/she)
+- 👋 Hi, I’m Dana Rosamund Teagle (she/her)
 - 👩‍💻 I'm a front-end web developer and creative problem-solver based in Toronto, Ontario
 - 🔪 I previously had careers in restaurant management and virtual assistance
 - 🎓 I got my certifications in web development at <a href="https://junocollege.com">Juno College</a> in 2022
