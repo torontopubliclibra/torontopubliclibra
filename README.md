@@ -9,8 +9,6 @@
 
 - 👋 Hi, I’m Dana Rosamund Teagle (she/her)
 - 👩‍💻 I'm a front-end web developer and creative problem-solver based in Toronto, Ontario
-- 🔪 I previously had careers in restaurant management and virtual assistance
-- 🎓 I got my certifications in web development at <a href="https://junocollege.com">Juno College</a> in 2022
 - 🌐 I'm passionate about diversity and accessibility within tech
 - 🎧 When I'm away from my keyboard, I'm usually reading comic books, going on walks around Toronto, or making playlists on <a href="https://open.spotify.com/user/zl14jd6qwpyhzcjtcwn5dkp78?si=WqZ87bKWQNe-VpS_xMRNRw">Spotify</a>
 - 💻 Check out my porfolio at <a href="https://danateagle.com">danateagle.com</a>
