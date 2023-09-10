@@ -2,6 +2,6 @@ I'm Dana Rosamund Teagle (she/her), a Front-End Developer from Toronto, Ontario,
 <br/><br/>
 I graduated from Juno College of Technology in 2022, and some of my recent work has included freelance web design and social media management, as well as contract development projects with Parallel 42 Systems.
 <br/><br/>
-Before I worked in tech, I spent good chunks of my time editing short films, cooking in professional kitchens, and managing restaurants and cafés. I also have experience with both technical consulting and also leading workshops for the queer & trans community in Toronto.
+Before I worked in tech, I spent good chunks of my time editing short films, cooking in professional kitchens, and managing restaurants and cafés. I also have experience with technical consulting as well as leading workshops for the queer & trans communities in Toronto.
 <br/><br/>
 If you want to get in touch about a project or opportunity, please feel free to send an email to: dana.r.teagle@gmail.com.
