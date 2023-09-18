@@ -4,4 +4,4 @@ I graduated from Juno College of Technology in 2022, and my recent work has incl
 <br/><br/>
 Before I started coding full-time, I cooked in vegetarian restaurants, managed cafés and bakeries, and edited short films. I also have experience consulting on technical solutions for small businesses, and leading community workshops.
 <br/><br/>
-Please feel free to reach out if you have a question about any of my apps, if there's a project or opportunity you'd like to discuss with me, or if you just want to talk comic books, Star Wars, trans history, or '90s indie rock.
+Please feel free to reach out if you have a question about any of my apps or websites, if there's a project or opportunity you'd like to discuss with me, or if you just want to talk comic books, Star Wars, trans history, or '90s indie rock.
