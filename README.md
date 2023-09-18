@@ -1,4 +1,4 @@
-I'm Dana Rosamund Teagle (she/her), a Web/Software Developer from Toronto, Ontario, Canada. I've been making sites and apps for fun for most of my life, and professionally since 2020. You can check out my portfolio site <a href="https://danateagle.com">here</a>.
+I've been making websites and apps for fun for most of my life, and professionally since 2020. You can check out my portfolio <a href="https://danateagle.com">here</a>.
 <br/><br/>
 I graduated from Juno College of Technology in 2022, and my recent work has included web design projects, social media management, and contract software development. These days, what particularly excites me is accessible design, open source development, and projects that intersect with queer and trans advocacy.
 <br/><br/>
